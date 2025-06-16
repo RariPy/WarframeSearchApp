@@ -1,3 +1,4 @@
+C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\WarframeSearchApp.csproj.AssemblyReference.cache
 C:\Users\Instruktor\WarframeSearchApp\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Instruktor\WarframeSearchApp\bin\Debug\net9.0\appsettings.json
 C:\Users\Instruktor\WarframeSearchApp\bin\Debug\net9.0\WarframeSearchApp.staticwebassets.runtime.json
@@ -8,17 +9,18 @@ C:\Users\Instruktor\WarframeSearchApp\bin\Debug\net9.0\WarframeSearchApp.runtime
 C:\Users\Instruktor\WarframeSearchApp\bin\Debug\net9.0\WarframeSearchApp.dll
 C:\Users\Instruktor\WarframeSearchApp\bin\Debug\net9.0\WarframeSearchApp.pdb
 C:\Users\Instruktor\WarframeSearchApp\bin\Debug\net9.0\Newtonsoft.Json.dll
-C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\WarframeSearchApp.csproj.AssemblyReference.cache
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\WarframeSearchApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\WarframeSearchApp.AssemblyInfoInputs.cache
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\WarframeSearchApp.AssemblyInfo.cs
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\WarframeSearchApp.csproj.CoreCompileInputs.cache
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\WarframeSearchApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\WarframeSearchApp.sourcelink.json
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\scopedcss\bundle\WarframeSearchApp.styles.css
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\scopedcss\projectbundle\WarframeSearchApp.bundle.scp.css
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\compressed\q046y9fhi5-fsftuatbyl.gz
+C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\compressed\29ci8v28mz-xup6tkakl4.gz
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\compressed\ei0zkdk7g8-bqjiyaj88i.gz
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\compressed\6p61lebnnw-c2jlpeoesf.gz
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\compressed\pdtuy231n1-erw9l3u2r3.gz
@@ -80,4 +82,3 @@ C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\refint\WarframeSearchApp.
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\WarframeSearchApp.pdb
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\WarframeSearchApp.genruntimeconfig.cache
 C:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\ref\WarframeSearchApp.dll
-c:\Users\Instruktor\WarframeSearchApp\obj\Debug\net9.0\compressed\29ci8v28mz-xup6tkakl4.gz

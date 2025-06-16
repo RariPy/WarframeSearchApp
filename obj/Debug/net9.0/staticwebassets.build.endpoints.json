@@ -43,7 +43,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:52:40 GMT"
+          "Value": "Mon, 16 Jun 2025 08:23:00 GMT"
         },
         {
           "Name": "Vary",
@@ -92,7 +92,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:52:40 GMT"
+          "Value": "Mon, 16 Jun 2025 08:23:00 GMT"
         }
       ],
       "EndpointProperties": [
@@ -141,7 +141,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:52:40 GMT"
+          "Value": "Mon, 16 Jun 2025 08:23:00 GMT"
         },
         {
           "Name": "Vary",
@@ -204,7 +204,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:52:40 GMT"
+          "Value": "Mon, 16 Jun 2025 08:23:00 GMT"
         },
         {
           "Name": "Vary",
@@ -245,7 +245,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:52:40 GMT"
+          "Value": "Mon, 16 Jun 2025 08:23:00 GMT"
         }
       ],
       "EndpointProperties": [
@@ -286,7 +286,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:52:40 GMT"
+          "Value": "Mon, 16 Jun 2025 08:23:00 GMT"
         },
         {
           "Name": "Vary",
@@ -599,170 +599,6 @@
       ]
     },
     {
-      "Route": "ass/warframe-logo-115629705814dk5whadj8_prev_ui.mao8gj9nvb.png",
-      "AssetFile": "ass/warframe-logo-115629705814dk5whadj8_prev_ui.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "88925"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 07:52:33 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mao8gj9nvb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0="
-        },
-        {
-          "Name": "label",
-          "Value": "ass/warframe-logo-115629705814dk5whadj8_prev_ui.png"
-        }
-      ]
-    },
-    {
-      "Route": "ass/warframe-logo-115629705814dk5whadj8_prev_ui.png",
-      "AssetFile": "ass/warframe-logo-115629705814dk5whadj8_prev_ui.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "88925"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 07:52:33 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0="
-        }
-      ]
-    },
-    {
-      "Route": "ass/warframe-logo.ii383kca32.png",
-      "AssetFile": "ass/warframe-logo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "180602"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yrbFdOKDV0141+L6URzljLykHxvdKJgJrBVKvz7wHSs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 11:58:13 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ii383kca32"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yrbFdOKDV0141+L6URzljLykHxvdKJgJrBVKvz7wHSs="
-        },
-        {
-          "Name": "label",
-          "Value": "ass/warframe-logo.png"
-        }
-      ]
-    },
-    {
-      "Route": "ass/warframe-logo.png",
-      "AssetFile": "ass/warframe-logo.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "180602"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yrbFdOKDV0141+L6URzljLykHxvdKJgJrBVKvz7wHSs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 11:58:13 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yrbFdOKDV0141+L6URzljLykHxvdKJgJrBVKvz7wHSs="
-        }
-      ]
-    },
-    {
       "Route": "data/all.slim.json",
       "AssetFile": "data/all.slim.json.gz",
       "Selectors": [
@@ -803,7 +639,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:54:38 GMT"
+          "Value": "Mon, 16 Jun 2025 08:11:51 GMT"
         },
         {
           "Name": "Vary",
@@ -844,7 +680,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:54:38 GMT"
+          "Value": "Mon, 16 Jun 2025 08:11:51 GMT"
         }
       ],
       "EndpointProperties": [
@@ -885,7 +721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:54:38 GMT"
+          "Value": "Mon, 16 Jun 2025 08:11:51 GMT"
         },
         {
           "Name": "Vary",
@@ -940,7 +776,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:54:38 GMT"
+          "Value": "Mon, 16 Jun 2025 08:11:51 GMT"
         },
         {
           "Name": "Vary",
@@ -989,7 +825,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:54:38 GMT"
+          "Value": "Mon, 16 Jun 2025 08:11:51 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1038,7 +874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 08:54:38 GMT"
+          "Value": "Mon, 16 Jun 2025 08:11:51 GMT"
         },
         {
           "Name": "Vary",
@@ -1139,6 +975,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "img/warframe-logo-115629705814dk5whadj8_prev_ui.mao8gj9nvb.png",
+      "AssetFile": "img/warframe-logo-115629705814dk5whadj8_prev_ui.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 07:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mao8gj9nvb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/warframe-logo-115629705814dk5whadj8_prev_ui.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/warframe-logo-115629705814dk5whadj8_prev_ui.png",
+      "AssetFile": "img/warframe-logo-115629705814dk5whadj8_prev_ui.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 07:52:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0="
+        }
+      ]
+    },
+    {
+      "Route": "img/warframe-logo.ii383kca32.png",
+      "AssetFile": "img/warframe-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yrbFdOKDV0141+L6URzljLykHxvdKJgJrBVKvz7wHSs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:58:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ii383kca32"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yrbFdOKDV0141+L6URzljLykHxvdKJgJrBVKvz7wHSs="
+        },
+        {
+          "Name": "label",
+          "Value": "img/warframe-logo.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/warframe-logo.png",
+      "AssetFile": "img/warframe-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yrbFdOKDV0141+L6URzljLykHxvdKJgJrBVKvz7wHSs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 11:58:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yrbFdOKDV0141+L6URzljLykHxvdKJgJrBVKvz7wHSs="
         }
       ]
     },

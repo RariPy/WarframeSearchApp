@@ -12,41 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fsftuatbyl"},{"Name":"integrity","Value":"sha256-0TRIdTvyVuuNFF5EYp9n2JOr37RDfIR/IzBUZWis9sU="},{"Name":"label","Value":"_content/WarframeSearchApp/app.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3683"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220TRIdTvyVuuNFF5EYp9n2JOr37RDfIR/IzBUZWis9sU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Jun 2025 08:25:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/ass/warframe-logo-115629705814dk5whadj8_prev_ui.mao8gj9nvb.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ass\warframe-logo-115629705814dk5whadj8_prev_ui.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mao8gj9nvb"},{"Name":"integrity","Value":"sha256-/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0="},{"Name":"label","Value":"_content/WarframeSearchApp/ass/warframe-logo-115629705814dk5whadj8_prev_ui.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"88925"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 07:52:33 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/ass/warframe-logo-115629705814dk5whadj8_prev_ui.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ass\warframe-logo-115629705814dk5whadj8_prev_ui.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"88925"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 07:52:33 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/ass/warframe-logo.ii383kca32.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ass\warframe-logo.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ii383kca32"},{"Name":"integrity","Value":"sha256-yrbFdOKDV0141\u002BL6URzljLykHxvdKJgJrBVKvz7wHSs="},{"Name":"label","Value":"_content/WarframeSearchApp/ass/warframe-logo.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"180602"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yrbFdOKDV0141\u002BL6URzljLykHxvdKJgJrBVKvz7wHSs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 11:58:13 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/ass/warframe-logo.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ass\warframe-logo.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yrbFdOKDV0141\u002BL6URzljLykHxvdKJgJrBVKvz7wHSs="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"180602"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yrbFdOKDV0141\u002BL6URzljLykHxvdKJgJrBVKvz7wHSs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 11:58:13 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/data/all.slim.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\all.slim.json'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aXXpf5MdsVAmWWXHgSD91Vnl2QzaI9SoPT68\u002BfEIAn4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5359185"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022aXXpf5MdsVAmWWXHgSD91Vnl2QzaI9SoPT68\u002BfEIAn4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 08:54:38 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5359185"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022aXXpf5MdsVAmWWXHgSD91Vnl2QzaI9SoPT68\u002BfEIAn4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 08:11:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/data/all.slim.xup6tkakl4.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\all.slim.json'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xup6tkakl4"},{"Name":"integrity","Value":"sha256-aXXpf5MdsVAmWWXHgSD91Vnl2QzaI9SoPT68\u002BfEIAn4="},{"Name":"label","Value":"_content/WarframeSearchApp/data/all.slim.json"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5359185"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022aXXpf5MdsVAmWWXHgSD91Vnl2QzaI9SoPT68\u002BfEIAn4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 08:54:38 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5359185"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022aXXpf5MdsVAmWWXHgSD91Vnl2QzaI9SoPT68\u002BfEIAn4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 08:11:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/favicon.ifv42okdf2.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</AssetFile>
@@ -59,6 +35,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1148"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00224mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 27 May 2025 09:01:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/img/warframe-logo-115629705814dk5whadj8_prev_ui.mao8gj9nvb.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\warframe-logo-115629705814dk5whadj8_prev_ui.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mao8gj9nvb"},{"Name":"integrity","Value":"sha256-/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0="},{"Name":"label","Value":"_content/WarframeSearchApp/img/warframe-logo-115629705814dk5whadj8_prev_ui.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"88925"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 07:52:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/img/warframe-logo-115629705814dk5whadj8_prev_ui.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\warframe-logo-115629705814dk5whadj8_prev_ui.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"88925"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/rgUVoNRxNs2b8L9hgLi5XKKGDtnimeSGL1uYJ1svu0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 07:52:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/img/warframe-logo.ii383kca32.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\warframe-logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ii383kca32"},{"Name":"integrity","Value":"sha256-yrbFdOKDV0141\u002BL6URzljLykHxvdKJgJrBVKvz7wHSs="},{"Name":"label","Value":"_content/WarframeSearchApp/img/warframe-logo.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"180602"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yrbFdOKDV0141\u002BL6URzljLykHxvdKJgJrBVKvz7wHSs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 11:58:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/img/warframe-logo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\warframe-logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yrbFdOKDV0141\u002BL6URzljLykHxvdKJgJrBVKvz7wHSs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"180602"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yrbFdOKDV0141\u002BL6URzljLykHxvdKJgJrBVKvz7wHSs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 21 May 2025 11:58:13 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>
@@ -592,13 +592,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WarframeSearchApp.iwc9bhih06.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kthe0irhvPAWvkx8kkoq54ZwBhfqNXrpL\u002BiH8tOoiUo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5989"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kthe0irhvPAWvkx8kkoq54ZwBhfqNXrpL\u002BiH8tOoiUo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 08:52:40 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5989"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kthe0irhvPAWvkx8kkoq54ZwBhfqNXrpL\u002BiH8tOoiUo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 08:23:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WarframeSearchApp/WarframeSearchApp.iwc9bhih06.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WarframeSearchApp.iwc9bhih06.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iwc9bhih06"},{"Name":"integrity","Value":"sha256-kthe0irhvPAWvkx8kkoq54ZwBhfqNXrpL\u002BiH8tOoiUo="},{"Name":"label","Value":"_content/WarframeSearchApp/WarframeSearchApp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5989"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kthe0irhvPAWvkx8kkoq54ZwBhfqNXrpL\u002BiH8tOoiUo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 08:52:40 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5989"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kthe0irhvPAWvkx8kkoq54ZwBhfqNXrpL\u002BiH8tOoiUo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Jun 2025 08:23:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

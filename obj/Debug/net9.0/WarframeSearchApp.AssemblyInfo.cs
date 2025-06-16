@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WarframeSearchApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fdcdf32eff2da1e9c892f9b2e79dd63e1bb98d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WarframeSearchApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WarframeSearchApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

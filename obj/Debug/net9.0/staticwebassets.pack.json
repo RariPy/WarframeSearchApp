@@ -9,20 +9,20 @@
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Instruktor\\WarframeSearchApp\\wwwroot\\ass\\warframe-logo-115629705814dk5whadj8_prev_ui.png",
-      "PackagePath": "staticwebassets\\ass\\warframe-logo-115629705814dk5whadj8_prev_ui.png"
-    },
-    {
-      "Id": "C:\\Users\\Instruktor\\WarframeSearchApp\\wwwroot\\ass\\warframe-logo.png",
-      "PackagePath": "staticwebassets\\ass\\warframe-logo.png"
-    },
-    {
       "Id": "C:\\Users\\Instruktor\\WarframeSearchApp\\wwwroot\\data\\all.slim.json",
       "PackagePath": "staticwebassets\\data\\all.slim.json"
     },
     {
       "Id": "C:\\Users\\Instruktor\\WarframeSearchApp\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Instruktor\\WarframeSearchApp\\wwwroot\\img\\warframe-logo-115629705814dk5whadj8_prev_ui.png",
+      "PackagePath": "staticwebassets\\img\\warframe-logo-115629705814dk5whadj8_prev_ui.png"
+    },
+    {
+      "Id": "C:\\Users\\Instruktor\\WarframeSearchApp\\wwwroot\\img\\warframe-logo.png",
+      "PackagePath": "staticwebassets\\img\\warframe-logo.png"
     },
     {
       "Id": "C:\\Users\\Instruktor\\WarframeSearchApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

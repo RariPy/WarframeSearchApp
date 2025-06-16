@@ -6,10 +6,10 @@
 
 <div class="container">
     <div style="display: flex; justify-content: center; margin-bottom: 5px;">
-        <img src="ass/warframe-logo-115629705814dk5whadj8_prev_ui.png" alt="Warframe Logo" style="height: 100px;" />
+        <img src="img/warframe-logo-115629705814dk5whadj8_prev_ui.png" alt="Warframe Logo" style="height: 100px;" />
     </div>
     <div style="display: flex; justify-content: center;">
-        <h1>Item Lookup</h1>
+        <h1>item Lookup</h1>
     </div>
     <div style="display: flex; justify-content: center; margin-bottom: 20px; gap: 15px;">
         <p>Version Changelog</p>
@@ -35,20 +35,20 @@
                 <table class="table-striped">
                     <thead>
                         <tr>
-                            <th>Item</th>
+                            <th>item</th>
                             <th>Location</th>
-                            <th>Rarity</th>
-                            <th>Chance</th>
+                            <th>rarity</th>
+                            <th>chance</th>
                         </tr>
                     </thead>
                     <tbody>
                         @foreach (var drop in results)
                         {
                             <tr>
-                                <td>@drop.Item</td>
-                                <td>@drop.Place</td>
-                                <td>@drop.Rarity</td>
-                                <td>@drop.Chance</td>
+                                <td>@drop.item</td>
+                                <td>@drop.place</td>
+                                <td>@drop.rarity</td>
+                                <td>@drop.chance</td>
                             </tr>
                         }
                     </tbody>
@@ -68,28 +68,28 @@
     {
         var json = System.IO.File.ReadAllText("wwwroot/data/all.slim.json");
         allDrops = JsonConvert.DeserializeObject<List<DropEntry>>(json) ?? new();
-        Console.WriteLine($"Loaded {allDrops.Count} drop entries");
-        results = allDrops.Take(10).ToList();
+        Console.WriteLine($"Loaded {allDrops.Count} drop entries"); // To check if Json is being loaded properly
+        results = allDrops.Take(10).ToList(); // Lists the first 10 entries in the Json
     }
 
     private void FilterResults()
     {
         if (string.IsNullOrWhiteSpace(searchQuery))
         {
-            results.Clear();
+        results.Clear();
         }
         else
         {
-            results = allDrops
-                .Where(drop => drop.Item != null &&
-                               drop.Item.Contains(searchQuery, StringComparison.OrdinalIgnoreCase))
+            results = allDrops // Search function
+                .Where(drop => drop.item != null &&
+                               drop.item.Contains(searchQuery, StringComparison.OrdinalIgnoreCase))
                 .ToList();
         }
         StateHasChanged();
         Console.WriteLine($"Search query: '{searchQuery}', results found: {results.Count}");
     }
 
-    private void HandleKeyDown(KeyboardEventArgs e)
+    private void HandleKeyDown(KeyboardEventArgs e) 
     {
         if (e.Key == "Enter")
         {
@@ -99,9 +99,9 @@
 
     private class DropEntry
     {
-        public string? Place { get; set; }
-        public string? Item { get; set; }
-        public string? Rarity { get; set; }
-        public double? Chance { get; set; }
+        public string? place { get; set; }
+        public string? item { get; set; }
+        public string? rarity { get; set; }
+        public double? chance { get; set; }
     }
 }
